@@ -1,4 +1,4 @@
-# FarmerNet NFTs 🔬
+# FarmerNet NFTs
 
 ✿ ❀ Dynamic non fungible tokens (NFTs) for land-based carbon emission credit with GPS coordinates  ❀ ✿
 
@@ -67,8 +67,8 @@ Non fungible tokens: Dynamic and changes based on real world data metrics land-b
 
 - Include other protocols not just Rinksy testnet – like mainnet
 - Building a user-friendly front-end for farmers to interact with with UI UX design
-- Integrating with blockchain defi payment systems – Metamask wallet payments
+- Integrating with blockchain Metamask wallet payments
 - Proving who owns what at what time – Solana
 - Gas-efficient code
 - Better encryption 
-- Create content to promote social impact
+- Defi payment options Aave, O(1) Labs, or Compound
