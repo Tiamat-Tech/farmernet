@@ -73,6 +73,6 @@ Non fungible tokens: Dynamic and changes based on real world data metrics land-b
 - Building a user-friendly front-end for farmers to interact with with UI UX design
 - Integrating with blockchain Metamask wallet payments
 - Proving who owns what at what time – Solana
-- Gas-efficient code
+- Gas-efficient code - check ETH demand on the network and use Layer-2 networks - Matic
 - Better encryption 
 - Defi payment options Aave, O(1) Labs, or Compound
