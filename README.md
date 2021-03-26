@@ -18,7 +18,7 @@
 Carbon emission information is siloed, non-verified and non-standardized. The goal is to reduce environmental impacts and carbon footprint, and increase progress towards global and corporate carbon emission goals with FARMERNET.
 
 Powerpoint Slides: https://drive.google.com/file/d/1f6YgZF0h1w1Jc7Kvo2oJXvmkE_fIC8v6/view
-Web hosting: https://drive.google.com/file/d/1f6YgZF0h1w1Jc7Kvo2oJXvmkE_fIC8v6/view
+Web hosting: http://lucylow.com/farmernet/
 
 ![](https://github.com/lucylow/farmernet/blob/main/farmernet1337.png)
 
