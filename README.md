@@ -15,14 +15,12 @@
 
 ## Problem
 
-![](https://github.com/lucylow/farmernet/blob/main/images/btc%20eth%20carbon%20emissions.png)
-
 Carbon emission information is siloed, non-verified and non-standardized. The goal is to reduce environmental impacts and carbon footprint, and increase progress towards global and corporate carbon emission goals with FARMERNET.
 
 Powerpoint Slides: https://drive.google.com/file/d/1f6YgZF0h1w1Jc7Kvo2oJXvmkE_fIC8v6/view
 
 
-![](https://github.com/lucylow/farmernet/blob/main/images/farmernet1337.png)
+![](https://github.com/lucylow/farmernet/blob/main/images/btc%20eth%20carbon%20emissions.png)
 
 
 ---
@@ -33,6 +31,9 @@ Powerpoint Slides: https://drive.google.com/file/d/1f6YgZF0h1w1Jc7Kvo2oJXvmkE_fI
 - Proof and immutability for the real world impact of carbon emission generation and consumption - allows companies to stand behind their claims of carbon reductions, sustainability, and renewable energy to prevent greenwashing using the immutable ledger to track environmental assets and liabilities.
 - Farmernet’s smart contract’s logic and data trigger are viewable on the blockchain by all stakeholders, leading to transparency and independent verification of all outcomes.
 - Tamperproof execution and data delivery to carbon emission, resulting in producers and consumers being able to trust that they will get the land based on accurate data metrics.
+
+![](https://github.com/lucylow/farmernet/blob/main/images/farmernet1337.png)
+
 ---
 ## Non Fungible Tokens NFTs
 
